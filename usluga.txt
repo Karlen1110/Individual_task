@@ -1,0 +1,10 @@
+Internal communication, 1, 0.30, мин
+SMS, 2, 0.15, #
+Communication with other mobile networks, 3, 0.50, мин
+Roaming, 4, 10, мин
+International rate, 5, 50, мин
+MMS, 6, 0.5, #
+Unlimited messeger, 7, 75, мес€ц
+All in one, 8, 15, день
+Unlimited on YouTube, 9, 150, мес€ц
+Unlimited internet, 10, 30, день

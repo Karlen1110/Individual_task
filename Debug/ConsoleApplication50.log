@@ -1,0 +1,9 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  ConsoleApplication50.cpp
+C:\Users\Karlen\source\repos\ConsoleApplication50\ConsoleApplication50\ConsoleApplication50.cpp(110,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Karlen\source\repos\ConsoleApplication50\ConsoleApplication50\ConsoleApplication50.cpp(101,16): warning C4101: del1: неиспользованная локальная переменная
+C:\Users\Karlen\source\repos\ConsoleApplication50\ConsoleApplication50\ConsoleApplication50.cpp(106,15): warning C4101: rightday: неиспользованная локальная переменная
+C:\Users\Karlen\source\repos\ConsoleApplication50\ConsoleApplication50\ConsoleApplication50.cpp(509,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Karlen\source\repos\ConsoleApplication50\ConsoleApplication50\ConsoleApplication50.cpp(515,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Karlen\source\repos\ConsoleApplication50\ConsoleApplication50\ConsoleApplication50.cpp(522,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication50.vcxproj -> C:\Users\Karlen\source\repos\ConsoleApplication50\Debug\ConsoleApplication50.exe
